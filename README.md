@@ -1,8 +1,4 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="Hello there! (it-blockchain(111|nd Li)|https://it-blockchain.com/)" title="Hello there! (it-blockchain(111|nd Li)|https://it-blockchain.com/)"/>](https://it-blockchain.com/)
 
-![visitors](https://vbr.nathanchung.dev/badge?page_id=Raymo111.Raymo111&color=00cf00)
-<!--
-**Raymo111/Raymo111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
