@@ -9,7 +9,7 @@
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 https://it-blockchain.com/
 
-Discord: it.node
+- Discord: it.node
 
 
 
